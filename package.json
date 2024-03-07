@@ -1,0 +1,11 @@
+{
+  "name": "youtube-play-backend",
+  "version": "1.0.0",
+  "description": "backend for youtube-play application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sairam kaushik",
+  "license": "ISC"
+}
